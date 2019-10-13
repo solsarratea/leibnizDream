@@ -1,0 +1,439 @@
+
+By G. W. Leibniz
+Or, on the Inherent Force and Activity of Created Things - Confirming and
+Illustrating the Author’s Dynamics
+1. The celebrated Johann Christopher Sturm, who is distinguished in mathematics and
+physics, wrote a dissertation entitled The Idol of Nature; and this was challenged by
+Günther Christopher Schelhammer, an excellent and most accomplished physician of Kiel,
+in his book Nature. I recently received a copy of Sturm’s published ‘Defence’ of his
+dissertation against this critic. The topic ·of nature· is one that I too have thought about,
+and there was an exchange of views in letters that passed between myself and the
+distinguished author of the dissertation, an exchange which he recently mentioned in a
+respectful way, publishing several of our letters in his Elective Physics.
+That made me all the more willing to think attentively about this topic, which is an
+inherently important one; and I thought I should present with some clarity both my own
+view and the entire issue, doing this in terms of principles of mine which I have already
+made known on several occasions. Sturm’s ‘Defence’ seems to provide a good
+opportunity for doing this, since we can take him to have set out the most important
+points in a compact form. But I shan’t enter otherwise into his controversy with
+Schelhammer.
+2. I want to ask two main questions ·of which the first will be discussed through seven
+sections, the second being posed at the start of section 9·. The first question is: What
+constitutes the nature that we ordinarily say things have? If we can approach this in terms
+not only of what nature is but also of what it is not, I can start by saying that there is not
+any such thing as the soul of the universe. I also agree that those everyday wonders which
+lead us to say (quite rightly) that the work of nature is the work of intelligence should not
+be ascribed to created intelligences with levels of wisdom and power suitable for those
+results. Rather, the whole of nature is God’s artifact, so to speak, and his ‘art’ goes so far
+that each natural machine - ·each organism, that is· - consists of infinitely many ·smaller·
+organisms, a state of affairs requiring infinite wisdom and power on the part of its creator
+and ruler. (It is not widely recognized, but it is true, that what really distinguishes the
+natural from the artificial is the fact that every organism contains other organisms.)
+And so I think that various theories about the world’s being infused by wise, knowing
+forces - by Hippocrates, Avicenna, Scaliger, Henry More and others - are partly
+impossible and partly unnecessary. All that is needed, I maintain, is for the machine of
+things to have been constructed with such wisdom that those everyday wonders come
+about through its own workings, and chiefly (I think) through organisms’ unfolding
+themselves in accordance with some pre-arranged plan. So I agree with Sturm in rejecting
+these supposed wise, created natures which are supposed to produce and govern the
+mechanisms of bodies. But I don’t think it follows from this, nor do I think it reasonable,
+that we should deny that there is any created, active force inherent in things.
+3. So much for what is not the case. Now let us examine more directly what this nature is,
+the nature that Aristotle called the principle of motion and rest. (A not-inappropriate
+phrase, though he takes it rather broadly, apparently meaning by motion not only change
+of place but any kind of change, and by rest not only staying in one place but any kind of
+staying-the-same. Incidentally, his definition of motion, though more obscure than it ought
+to be, is not as silly as it seems to those who take him to be defining only change of place.
+But I digress.) Robert Boyle, a distinguished man who is experienced in the careful
+observation of nature, wrote a little book On Nature Itself, whose main point was, if I
+remember rightly, that we should take nature to be just the mechanism of bodies. We can
+agree with this, taken broadly, but ·two misunderstandings should be headed off. One is
+that· we must distinguish the ·most general· principles of mechanism from the specific
+applications of them; ·because to explain what happens we must bring in the specific as
+well as the general·. Thus, for example, in explaining a clock, it is not enough to say that it
+is driven by a mechanical principle, unless you specify whether it is driven by a weight or
+by a spring. ·The second point is this·: I have already said a number of times that
+mechanism itself has its origin not in material principles and mathematical reasons alone,
+but in some higher and (so to speak) metaphysical source. I think that this will help to
+prevent the mechanical explanation of natural things from being carried to the extreme of
+implying - to the detriment of piety - that matter can stand by itself and that mechanism
+requires no intelligence or spiritual substance.
+4. The foundation of the laws of nature provides one notable example of this. This
+foundation is not to be found, as has usually been thought, in the conservation of the same
+quantity of motion, but rather in the conservation of the same quantity of active power and indeed of the same quantity of motive action, something that is far different from what
+the Cartesians understand as quantity of motion. (Conservation of motive action, I
+discovered, happens for a most beautiful reason.) And when two clearly first-rate
+mathematicians argued with me about this matter, partly in private letters and partly in
+public, one came completely over to my side, and the other, after long and careful thought,
+reached the point of abandoning all his objections and candidly confessed that he had no
+response to one of my arguments.
+So I was very surprised when Sturm, explaining the laws of motion in the part of his
+Elective Physics that has been published, took for granted the common view of them, as if
+there could be no objection to it (though he does acknowledge that this view rests not on
+demonstration but only on a certain plausibility, something he repeats in his ‘Defence’).
+
+Perhaps he was writing before my work came out, and then either didn’t have time to
+revise what he had written or didn’t think of doing so - especially as he believed that the
+laws of motion are arbitrary, a view that strikes me as not altogether coherent. For I
+believe that when God established the laws that are observed in nature, he took into
+account principles of wisdom and reasons of order. And I think that this makes it clear
+that the consideration of final causes - ·that is, of purpose or intent· - not only advances
+virtue and piety in ethics and natural theology, but also helps us to find and lay bare hidden
+truths in physics itself. (I pointed this out once, giving an example from the laws of optics,
+and the famous Molyneux later accepted it in his Dioptrics.)
+In treating final causes in his Elective Physics, Sturm listed my view as one of the
+theories about this; but I wish he had examined it at length in his discussion, for he would
+surely have taken the opportunity to say many excellent things about the argument - things
+remarkable for their fruitfulness and also beneficial for piety.
+5. But now we must consider what Sturm himself says about the notion of nature in his
+‘Defence’, and what still seems to be lacking in what he says. In several places he grants
+that the motions now taking place happen by virtue of the eternal law that God once set
+up, a law he then calls a volition and a command; and that there is no need for a new
+divine command or volition, let alone a new effort or work (section. 3). And Sturm rejects
+the view - which he says was wrongly attributed to him by his opponent - that God moves
+a thing as a woodcutter moves an axe, or as a miller controls a mill by holding back the
+water and then diverting it onto the wheel.
+But this leaves something unexplained. The question is: did that previous volition or
+command or laying down of a divine law bestow a mere extrinsic denomination on things?
+·I mean: is Ÿthat command’s only bearing on Ÿa stone’s falling at time T the sheer fact that
+God earlier commanded that this stone fall at T? If that is the whole story, then God’s
+order made no difference to the stone in itself, and merely gave it a purely relational
+property - the property of having-been-commanded-by-God-to-fall-at-T - which I call an
+‘extrinsic denomination’·. Or did it rather make some kind of enduring impression on the
+thing itself - perhaps one of which the thing is not conscious - from which its actions and
+passions follow? That would be what Schelhammer aptly describes as subjecting the thing
+to an ‘inherent law’, ·a law which the thing carries with it as part of its intrinsic nature·.
+The former alternative seems to be the doctrine of the authors of the system of occasional
+causes, especially that of the very acute Malebranche, while the latter is the usual view,
+and, I believe, the true one.
+6. Here is why. That past command does not now exist, so it cannot bring anything about
+now unless back then it left behind some continuing effect which still endures and now
+operates. Anyone who thinks otherwise, I maintain, gives up all clear explanations of
+things: if something could be brought about here and now by a cause that is not here or
+not now, without an intermediary, then anything could just as well be said to follow from
+anything else. So it won’t do just to say that when God created things in the beginning he
+willed that they should develop according to a certain definite law, if we suppose his will
+to have been so ineffective that things were not affected by it and it had no lasting effect
+on them.
+
+And in any case it contradicts the notion of pure and absolute divine power and will
+to suppose that God might will and yet not produce or change anything by doing so, to
+suppose that he is always acting but never leaves any work or accomplishment behind.
+There must be some connection, whether immediate or through some intermediary,
+between cause and effect. And so: if the divine words ‘Let the earth be fruitful and let the
+animals multiply’ had not made any change in created things, if things had just the same
+dispositions after that command as they would have had if no command had been given, it
+follows that either Ÿnothing now obeys that command or Ÿthe command was effective at
+the time when it was given and had to be perpetually renewed in the future - which the
+learned author rightly rejects. But if on the other hand the law God laid down left some
+trace of itself impressed on things - if his command made things become capable of
+fulfilling the intention of the command - then we can say that a certain efficacy has been
+placed in things - a form or a force, what we usually call a ‘nature’ - through which the
+series of phenomena follow in accordance with the dictates of the original command.
+7. This inherent force can be clearly understood, but it cannot be explained through the
+imagination, ·that is, in terms of sizes, shapes, colours or the like·; and of course it ought
+not to be explained in that way, any more than the nature of the soul should be. For force
+is one of the things that are grasped not by the imagination but by the understanding. So
+when Sturm asks for an ‘imaginable’ way in which an inherent law could work in bodies
+that were ignorant of it, I ·charitably· interpret him to mean that he wants an intelligible
+way for this to happen; for of course he wouldn’t ask us to picture sounds or to hear
+colours, ·and those requests would be absurd in the same kind of way as is the demand for
+an account of force in terms that engage the imagination·.
+Anyway, if we were entitled to reject anything we couldn’t explain, then Sturm would
+be committed to something that he complains is wrongly attributed to him, namely,
+preferring to hold that everything is moved by divine power alone rather than admit
+something called a ‘nature’, the nature of which he does not know. Indeed, this line of
+thought could be equally well relied on by Hobbes and others who hold that Ÿbodies are
+the only things that exist, because they have convinced themselves that Ÿbodies are the
+only things that can be clearly explained, ·which for them means that only bodies can be
+clearly explained· through the imagination.
+But they are thoroughly refuted by the fact that there is a power of acting in things, a
+power that is not derived from anything that can be imagined. And simply to absorb this
+force into a command of God’s - a command given just once in the past, having no effect
+on things and leaving no traces of itself in them - is so far from making the matter easier to
+grasp that it is more like abandoning the role of the philosopher altogether and cutting the
+Gordian knot with a sword. But a clearer and more accurate explanation of active force
+than has yet been given can be derived from my dynamics, which gives an account of the
+laws of nature and of motion - an account which is true and in conformity with how things
+are.
+8. But if some defender of the new philosophy, which attributes inertia and inactivity to
+things, went so far as to deprive God’s commands of all lasting effects and all efficacy in
+the future, and didn’t mind requiring God to keep working all the time (which Sturm
+wisely disavows), it would be for him to decide how worthy of God he thinks this is. Also,
+·quite apart from his bad theology·, this materialist would also be open to criticism unless
+he could explain how it is that things themselves can endure through time although their
+attributes (what we call their ‘nature’) cannot. For it is reasonable that just as Ÿthe words
+‘let there be’ leave something behind, namely the persisting thing itself, so Ÿthe equally
+wonderful word ‘blessing’ should leave something behind it in things, namely a
+fruitfulness, an impulse to produce actions and to have effects - an impulse from which a
+result follows if nothing prevents it. [The Latin for ‘let there be’ is a single word, fiat.]
+To this I can add something that I have already explained elsewhere, even if I haven’t
+yet made it perfectly clear to everyone, namely, that the very substance of things consists
+in a force for acting and being acted upon. This implies that there cannot be things that
+last through time unless the divine power can impress on them some force that lasts
+through time. In the absence of such enduring force, no created substance - no soul would remain the same thing for any length of time, and thus nothing would be kept in
+existence by God. Everything would be reduced to mere transitory or evanescent states of
+one permanent divine substance - reduced to mere ghosts, one might say. Or, to put the
+same thing in other words: nature itself, or the substance of all things, would be God. This
+is a doctrine of ill repute that an able though irreligious writer [Spinoza] has introduced to
+the world, or at least revived. If bodily things contained nothing but matter, it would
+indeed be true to say that they consist in a flow, having nothing substantial about them, as
+the Platonists once correctly recognized.
+9. Of the two questions that I mentioned at the start of section 2, the second is this: Is
+there any energeia in created things (which Sturm seems to deny)? That is, can created
+things properly and truly be said to act? Once we understand that the Ÿinherent nature of
+things is the same as their Ÿforce of acting and being acted on, this question reduces to the
+first one. For where there is action there must be a force for acting, and conversely ·where
+there is such a force there must be at least the possibility of action, because· a power that
+can never be exercised is empty. Still, action and power are different things - one
+momentary, the other persisting - so ·we should consider them separately. For a start·, let
+us consider action.
+Here I confess to having some difficulty in expounding Sturm’s views. For he denies
+that created things, really act in and of themselves; but then he goes on to acknowledge
+that they do act, because he somehow rejects the comparison between created things and
+an ax moved by a woodcutter. I can’t confidently draw any conclusions from this; I don’t
+find him explaining clearly enough just how far his view departs from the usual one, or
+explaining exactly what notion of action he has in mind. (That is no trivial task, as the
+debates of the metaphysicians show!) Insofar as I have made the notion of action clear to
+myself, I believe that the widely received philosophical doctrine that actions are actions of
+things follows from that notion and is grounded in it. And I think that this is so true that it
+also holds in the other direction: not only is everything that acts an individual substance,
+but also that every individual substance acts continuously; and this includes bodies, which
+are never absolutely at rest.
+
+10. But now let us consider a little more closely the view of those who deny true and
+proper action to created things. Robert Fludd, author of The Mosaic Philosophy, once
+denied it, and nowadays some Cartesians do so; these are the ones who think that things
+do not act, but that God is present in them and acts in accordance with what is appropriate
+for them; and who thus think that things are not causes but occasions, and that they
+receive ·effects· but don’t bring anything about or produce anything. [X is an ‘occasion’ of
+E’s occurring if it doesn’t cause E to occur but is what God goes by or attends to when he
+causes E to occur.] Although several Cartesians had proposed this doctrine, it was
+Malebranche who presented it most persuasively, bringing to it his characteristic sharpness
+of mind. But I cannot see that anyone has given any good reason for it.
+Indeed, if this ·occasionalist· view were extended so far as to eliminate even the
+immanent actions of substances, then it would be as far from reason as it could possibly
+be. [A substance’s ‘immanent actions’ are ones in which it acts not upon other substances
+but upon itself; they are the actions through which the substance develops, unfolds, in its
+inner nature. It connects with growth: Leibniz will soon link acting ‘immanently’ with
+acting ‘vitally’.] (Sturm rightly rejects the denial of immanent actions in his Elective
+Physics, illustrating how cautious he is.) For who would question that the mind thinks and
+wills, that we elicit in ourselves from ourselves many thoughts and volitions, and that we
+have a certain spontaneity? To question this would not only be to deny human liberty and
+to push the cause of evil back to God, but would also flout the testimony of our innermost
+experience and consciousness, testimony which makes us think that the things these
+Cartesians have transferred to God, without a semblance of a reason, are ours.
+But if we attribute an inherent force to our mind, a force for producing immanent
+actions (that is, for acting immanently), then it is reasonable to suppose that the same
+force will be present in other souls or forms or (if you prefer) in the natures of substances
+·other than human beings·. The alternative is to think that in the natural world as we know
+it only our minds are active, and that all power for acting immanently and (so to speak)
+vitally is accompanied by intellect ·and therefore belongs to human beings but not to all
+substances·. There are no rational arguments for such a claim; it can’t be defended except
+by distorting the truth. As for the actions of created things upon one another, that would
+be better dealt with elsewhere. In fact, I have already explained a part of it: the goings-on
+between substances or monads ·are not strictly speaking inter-actions at all, because they·
+do not come from anything’s flowing from substance to another, but rather from a
+harmony between them which God set up in advance, so that each substance is adjusted to
+things outside it while following the internal force and laws of its own nature. The union
+of the soul with the body is another instance of this harmony.
+11. That bodies are in themselves inert is true when it is properly understood, namely as
+meaning: given that a body is in some respect at rest at some time, it cannot set itself in
+motion in that respect, and will not allow itself without resistance to be set in motion by
+another thing; any more than it can spontaneously change either its velocity or direction
+without resistance, or easily and without resistance allow another body to change them.
+And so it must be admitted that Ÿaction and motion cannot arise purely from extension the geometrical aspect of bodies - and that on the contrary Ÿmatter resists being moved
+through its natural inertia (Kepler‘s good phrase), so that it is not indifferent to motion
+and rest, as is commonly believed, but requires for its motion an active force in proportion
+to its size. This passive force of resisting involves impenetrability but not only that; and
+this force is where I locate the notion of primary matter or bulk, which is the same in all
+bodies and proportional to the body’s size. And I show that from this there follow laws of
+motion far different from what would obtain if there were nothing to bodies and their
+matter but impenetrability and extension.
+Moreover, just as matter has a natural inertia that is opposed to motion, so too in a
+body itself, indeed in every substance, there is a natural constancy which is opposed to
+change. But this doctrine does not support - in fact it opposes - those who deny that
+things act. For, certain as it is that matter cannot begin motion of itself, it is equally certain
+that any body, considered on its own, retains any impetus that it has been given, and
+remains constant in its mobility; that is, it has a tendency to persevere in any series of
+changes which it has entered upon. (This has also been shown by admirable experiments
+on the communication of motion in collisions.) Now, since these activities and entelechies
+certainly can’t be properties of primary matter or bulk, which is essentially passive (as
+Sturm has clearly acknowledged - we shall see how in section 12), we have to conclude
+that a first entelechy must be recognized in corporeal substance, a first subject of activity.
+It is a primitive motive force which is additional to extension (or what is purely
+geometrical) and bulk (or what is purely material); it is always active, but how it acts in
+collisions of bodies varies according to what effort [conatus] and impetus are involved.
+And this substantial principle is what is called the soul in living things and the substantial
+form in other things; and insofar as it together with matter constitutes a substance that is
+truly one, or is one per se [= one considered just in itself, in contrast to an aggregate or
+collection which we choose to treat as one - for example a chain or a flock of sheep], it
+makes up what I call a monad. ·I choose this term, with its implication that the items in
+question are the unitary things out of which everything is composed, because· if these true
+and real unities were eliminated, there would be only aggregates; indeed it would follow
+that there would be no true entities at all in bodies. For although there are atoms of
+substance, namely my monads, which ·count as atoms because they· have no parts, there
+are no atoms of bulk, or smallest extensions, or ultimate elements, because a continuum is
+not made up out of points. In just the same way, there is no greatest bulk, no infinite
+extension, even though for each thing there is always something bigger. But there is a
+being that is the greatest in the intensity of its perfection, a being infinite in power. [The
+Latin for the contrast extension/intensity is extensio/intensio.]
+12. I see, however, that in his ‘Defence’ Sturm has sought to attack the motive force
+inherent in bodies through certain arguments. ‘From numerous considerations’, he writes,
+‘I shall here show that corporeal substance is indeed incapable of any active motive
+power,’ I don’t understand what a non-active motive power might be. He also says that he
+will use two parallel arguments, one from the nature of matter and body, the other from
+the nature of motion. ·I shall deal with one in this section and the other in section 13·. The
+former comes down to this: that matter is in its nature and essentially a passive substance,
+and so it is no more possible for it to be given an active force than it is for God to will that
+a stone should, while remaining a stone, be alive and rational - which would make it a nonstone. Furthermore, all that we can suppose in a body are properties of matter, and a
+property of a thing that is essentially passive cannot make the thing active.
+Sturm puts this last point well. But his argument can be countered on the basis of a
+philosophical position which is generally accepted and also true. I understand ‘matter’ as
+either secondary or primary. Secondary matter is indeed a complete substance, but it is not
+merely passive; primary matter is merely passive, but is not a complete substance - for it to
+be complete there must be added a soul or a form analogous to a soul, or a first entelechy,
+that is, a certain urging or primitive force of acting which itself is an inherent law that God
+has impressed onto the thing. I think this would be acceptable to the famous and ingenious
+man who recently defended the view that body is made up of matter and spirit. But ·in my
+present context· ‘spirit’ is to be understood not as an intelligent being (as it usually is) but
+as a soul or a form analogous to a soul; and not as a mere property of a thing, but as
+something constitutive, substantial, enduring, what I usually call a monad, in which there
+is something like perception and appetite. This commonly accepted doctrine, which is
+consistent with the doctrine of the schoolmen (when that is properly understood), must
+first be refuted if Sturm’s argument is to succeed.
+From this it also follows that one cannot concede his assumption that whatever is in
+corporeal substance is a property of matter. For, as is well known, according to the
+commonly accepted philosophy the bodies of living things contain souls which are
+certainly not properties of matter. Sturm seems to have settled on the opposite view, and
+to deny all true sensation, and all soul properly so-called, to brute animals; but he
+shouldn’t assume this opinion as a basis for demonstration before it itself is demonstrated.
+I hold the contrary view that it is not consistent with the order or the beauty or the
+reasonableness of things that there should be something living - that is, acting from within
+itself - in only a small portion of matter, when it would contribute to greater perfection for
+such things to be everywhere. And there is no reason why souls or things analogous to
+them should not be everywhere, even though dominant and consequently intelligent souls,
+like human souls, cannot be everywhere.
+13. Sturm’s second argument, from a premise about motion, seems to me no more
+compelling. He says that a thing’s moving is merely its successively existing in different
+places. This is not entirely satisfactory; it expresses what results from motion rather than
+its formal definition, as it is called. Still, let us go along with it for the moment. It does not
+rule out there being motive force. For at any moment in its motion, a body is not merely in
+a place that exactly fits it, but it also has an urge or tendency to change its place, so that
+its next state follows from the present one through the force of its nature. If this were not
+so, then a moving body would not differ in the least, at any moment, from a body at rest;
+and Sturm’s position would entail that there is no clear basis for distinguishing one body
+from another, because in a plenum there is no way of distinguishing between masses that
+are uniform in themselves unless they are distinguished through motion. And it would also
+follow that absolutely nothing changes in bodies, and that everything would always remain
+the same. ·Here is why·.
+Sturm has eliminated active forces or impetus, and with them all other qualities and
+properties except ‘existing in this place’ and ‘successively coming to exist in some other
+place’; so he ought to hold that no portion of matter differs from other equal and
+congruent portions of matter. In that case, if (·as Sturm must hold·) one momentary state
+·of the corporeal world· differs from another purely through the transposition of equal and
+congruent portions of matter which are in every way alike, then obviously this perpetual
+substitution of indistinguishables will not provide any way of distinguishing different
+momentary states ·of the world· from one another. For the only thing that could be
+attributed to one portion of matter and not another would be merely extrinsic - it would
+concern what will happen, namely that the portion in question will later be in such and
+such another place. But in the present there is no difference. Indeed, there is not even a
+properly grounded difference between the present and the future, because we will never
+arrive at a time that we can distinguish from the present. This is because, assuming perfect
+uniformity in matter itself, we have no way to distinguish one place from another, or one
+portion of matter from another portion in the same place. It is also unavailing to turn to
+shape in addition to motion. For in a mass that is perfectly homogeneous, undivided, and
+full, no shape - that is, no boundary or distinction between different parts of the mass - can
+occur unless motion itself yields it. And ·motion does not yield it·: if motion contains no
+mark for distinguishing anything, it yields no distinguishing mark for shape. Since
+everything that replaced something else would be perfectly like it, no observer - not even
+an omniscient one - would detect even the slightest sign that a change had occurred. It
+would be just as though there were no change or differentiation in bodies, and we could
+never explain the different appearances that our senses show to us. Here is an example of
+something similar.
+Let us imagine two perfect and concentric spheres, exactly alike over-all and in
+every part, one enclosed in the other with not even the smallest gap between them.
+Now assume that the enclosed sphere either revolves or is at rest. Not even an
+angel (to go only as far up as angels ·and leave God out of it·) could detect any
+difference between its states at different times, or have any evidence as to whether
+the enclosed sphere is at rest or revolves, and according to what law of motion.
+Indeed, ·the situation is even worse than that, because· just as the lack of any
+difference prevents us from determining whether there is motion, the lack of a
+difference and of a gap prevents us from determining a boundary between the
+spheres.
+Even if those who have not dug deeply enough into these matters may not have
+recognized this, it ought to be regarded as certain that such states of affairs are alien to the
+nature and order of things, and that nowhere is there perfect similarity (this is one of my
+important new axioms). It also follows from this that in nature there are neither perfectly
+hard corpuscles, nor a perfectly thin fluid, nor a universally diffused finely divided matter,
+nor ultimate elements of the kind some call ‘primary and ‘secondary’.
+I think it is because Aristotle (who in my view is deeper than many think) saw some
+of this that he judged that there must be ·qualitative· alteration in addition to change of
+place, and that matter is not everywhere the same, or it would never alter. And in fact this
+dissimilarity or qualitative difference, and also alteration (Aristotle’s alloisis, which he did
+not adequately explain), result from different degrees and directions of impulses, and thus
+from properties of the monads that things contain. From this we can see that there must be
+more to bodies than a mere homogeneous mass and movement of it from place to place which would not ·really· change anything. Those who believe in atoms and vacuum do of
+course allow variety in matter, making some of it divisible and some indivisible, one place
+full and another empty. But atoms and vacuum should both be rejected (as I came to
+recognise when I grew up).
+Sturm adds that it is God’s will that enables matter to exist through different times,
+and asks: why not also attribute to God’s will matter’s existing here and now? I reply that
+this, like everything else that involves perfection, is certainly due to God. But ·the fact of·
+that first and universal cause conserving everything does not take away the natural
+subsistence of a thing coming into existence or its ·naturally· persevering in existence
+thereafter; rather, it produces that natural subsistence and persistence. And, in the same
+way, it does not take away the natural efficacy of a thing in motion or its ·natural·
+perseverance in acting once it has begun; rather, it supports that efficacy and action.
+14. Many other things in Sturm’s ‘Defence’ are problematic, such as his statement that
+when motion is transferred from one ball to another through several intermediate balls, the
+last one is moved by the same force as the first. It seems to me that ·on the contrary· it is
+moved with an equivalent force, but not by the same force. That is because - surprising as
+it may seem - when anything is pushed by the impact on it of a neighbouring body what
+sets it in motion is its own force, its elasticity. (I am not now discussing the cause of this
+elasticity, and I don’t deny that it must be explained mechanically through the motion of a
+fluid flowing through bodies.) Also, his statement that a thing that can’t set itself in motion
+can’t keep itself in motion is truly astonishing! On the contrary: it is an established fact
+that while force is necessary for producing motion, once an impetus is given no new force
+is needed for the motion to continue; indeed, a force is needed to stop it. Conservation by
+a universal cause is not at issue here; as I have already said, if it took away the efficacy of
+things, it would also take away their existence.
+15. From this we can see that the doctrine of occasional causes which some people defend
+can lead to dangerous consequences, though these are doubtless not intended by its very
+learned defenders. (The dangers would be averted if the doctrine were modified in certain
+ways; Sturm makes some of these changes, and seems poised to make others.) Far from
+increasing the glory of God by dethroning the idol of nature, this doctrine seems to join
+Spinoza in making God be the very nature of things, reducing created things to mere
+states or properties of the one divine substance: for something that ·answers to
+occasionalism’s account of created things, that is, something that· Ÿdoesn’t act, Ÿhas no
+active force, Ÿhas no distinguishing features, and finally Ÿhas within itself no reason or
+ground for staying in existence, can in no way be a substance. I am perfectly sure that
+Sturm, a man outstanding in both piety and intellect, is very far from such perversions. No
+doubt, then, he will either show clearly how on his doctrine some substance or even some
+change remains in things, or he will surrender to the truth.
+16. I have many reasons to suspect that I have not properly understood Sturm’s views,
+nor he mine. Somewhere in his Elective Physics he acknowledges that a certain small part
+of the divine power can, and even in a way should, be understood as belonging to and
+attributed to things. (I suppose he means a certain expression, likeness, or immediate
+effect of the divine power, since that power itself certainly cannot be divided into parts.)
+His words suggest that he means this in the sense in which we speak of the soul as ‘a small
+part of the divine breath’, in which case the disagreement between us vanishes. But I
+hesitate to attribute this view to him, because it occurs hardly anywhere else ·in his book·,
+and I don’t see him presenting anything that follows from it. On the contrary, I note that
+many things he says are hardly consistent with this view, and also that the ‘Defence’ leads
+in an entirely different direction. To be sure, when in certain letters Sturm first objected to
+my published views on inherent force, and I replied, he generously responded that we
+differ only verbally ·and not in doctrine·. But when, having taken note of this, I raised a
+few other points, he immediately switched and cited many differences between us, which I
+acknowledge. Quite recently, however, he set these differences aside and again wrote that
+any differences between us are only verbal - to me a most gratifying conclusion.
+Therefore, on the occasion of this latest ‘Defence’, I have tried to set the matter out in
+such a way that we can at last get clear about our views and about their truth. For this
+distinguished gentleman has great insight and also skill as an expositor; so we can expect
+that his work on this important issue will throw considerable light on it, and thus that my
+own labours will be useful in giving him an opportunity to consider, and to illuminate with
+his usual industry and power of judgment some important aspects of the present matter
+that have been missed by previous authors. I think I have supplemented these with new,
+deeper, and more broadly grounded axioms, from which there may some day arise a
+restored and corrected system of philosophy, midway between the formal and the material,
+a system that combines and preserves both.
